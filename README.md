@@ -8,12 +8,12 @@
 
 ## 💻 Projeto
 
-Este projeto é um tutorial que ensina a como criar o site dos **Guardiões da Galáxia** ao usar _HTML_, _CSS_ e _JavaScript_.
+Este projeto é para mostrar do meu grupo de RGP que estou jogando com meus amigos, os **Arautos do Ceu Carmesim** usando _HTML_, _SASS_ e _JavaScript_.
 
 ## 🚀 Tecnologias
 
 - HTML
-- CSS
+- SASS
 - JavaScript
 
 ## 📔 Conhecimentos abordados
@@ -25,11 +25,4 @@ Este projeto é um tutorial que ensina a como criar o site dos **Guardiões da G
 - [x] Carregamento de fonte externa
 - [x] Uso de cores gradientes no texto
 
-
-## 📺 Tutorial no Youtube
-
-<a href="https://www.youtube.com/watch?v=NdQ9k3SWrRc" target="_blank">
- <img src="https://img.youtube.com/vi/NdQ9k3SWrRc/maxresdefault.jpg" width="100%" height="auto" />
-</a>
-# dnd-party
 # dnd-party
