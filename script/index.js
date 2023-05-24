@@ -1,6 +1,6 @@
 const members = [
-  { name: 'Peter Quill', id: 'peter' },
-  { name: 'Gamora Titan', id: 'gamora' },
+  { name: 'Idris Rucandel', id: 'peter' },
+  { name: 'Morpheys Mendigo', id: 'gamora' },
   { name: 'Drax o Destruidor', id: 'drax' },
   { name: 'Mantis', id: 'mantis' },
   { name: 'Rocket Raccoon', id: 'rocket' },

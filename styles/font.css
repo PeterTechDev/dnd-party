@@ -1,6 +1,8 @@
 @font-face {
-  font-family: 'Star Guard Italic';
-  src: url('../assets/star-guard-italic.ttf');
+  /* font-family: 'Star Guard Italic';
+  src: url('../assets/star-guard-italic.ttf');  */
+  font-family: 'berk';
+  src: url('../assets/berk.ttf');
   font-weight: normal;
   font-display: swap;
 }

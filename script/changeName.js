@@ -1,5 +1,5 @@
 let interval = null;
-const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const letters = "kʷwɛɲjaneldëòñë";
 
 function randomLetter() {
   const randomNumber = Math.floor(Math.random() * letters.length)
@@ -32,5 +32,5 @@ function changeName(newName) {
     }
     
     iteration += 1;
-  }, 60);
+  }, 120);
 }
