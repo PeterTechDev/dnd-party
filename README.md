@@ -20,9 +20,11 @@ Este projeto é para mostrar do meu grupo de RGP que estou jogando com meus amig
 
 - [x] Uso semântico do HTML
 - [x] Uso do CSS Flexbox
+- [x] Usar SASS
 - [x] Carrousel de imagens
 - [x] Menu lateral
 - [x] Carregamento de fonte externa
 - [x] Uso de cores gradientes no texto
+- [ - ] Responsividade
 
 # dnd-party
